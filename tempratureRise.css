@@ -1,0 +1,29 @@
+.column{
+	float:left;
+
+
+}
+
+.column.right{
+	width:25%;
+	padding-right:5%;
+	padding-left: 0.5%;
+	padding-top: 3.5%;
+}
+.column.left{
+	width:75%;
+	padding-left: 5%;
+	padding-right: 2%;
+}
+
+#videoPlayer{
+	padding-bottom: 2%;
+	padding-top: 6%;
+}
+nav a:hover{
+	border-bottom: 3px solid #5bc0eb;
+}
+
+nav a.nav-link.active{
+	border-bottom: 3px solid #5bc0eb;
+}
